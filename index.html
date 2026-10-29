@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f6f4ef" />
+    <meta name="description" content="Thư viện đọc các câu chuyện và tài liệu Markdown." />
+    <title>Thư viện nhỏ</title>
+  </head>
+  <body>
+    <div class="topbar">
+      <a class="brand" href="#" aria-label="Thư viện nhỏ, về trang chính">
+        <span class="brand-mark" aria-hidden="true">m</span>
+        <span>thư viện nhỏ</span>
+      </a>
+      <span class="top-note">MỘT GÓC ĐỌC MỞ</span>
+    </div>
+
+    <main class="layout">
+      <aside class="sidebar" aria-label="Danh sách tài liệu">
+        <div class="sidebar-heading">
+          <div>
+            <p class="eyebrow">THƯ MỤC</p>
+            <h1>Tài liệu</h1>
+          </div>
+          <span id="document-count" class="count"></span>
+        </div>
+        <label class="search-box">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Tìm bài viết..." autocomplete="off" />
+        </label>
+        <nav id="document-list" class="document-list" aria-label="Các file Markdown"></nav>
+        <p class="sidebar-hint">Thêm file <code>.md</code> vào thư mục <code>content/</code> để đăng bài mới.</p>
+      </aside>
+
+      <section class="reader" aria-label="Nội dung bài viết">
+        <div class="reader-bar">
+          <span id="reading-time" class="eyebrow"></span>
+          <button id="download" class="download-button" type="button">Tải file Markdown <span aria-hidden="true">↓</span></button>
+        </div>
+        <article id="article" class="prose"></article>
+      </section>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
