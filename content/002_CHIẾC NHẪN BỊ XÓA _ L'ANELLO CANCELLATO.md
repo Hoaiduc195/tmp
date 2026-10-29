@@ -40,9 +40,9 @@
 
 **MARIA:** Cảm ơn cô, Margherita. Ta là Maria. Người ta chỉ gọi ta là cháu gái Hồng y, vị hôn thê của Raphael. Ít ai hỏi ta muốn gì.
 
-**RAPHAEL:** Maria, ta đã sợ quyền lực của cậu nàng. Ta cứ im lặng và nghĩ rằng rồi mọi chuyện sẽ tự qua.
+**RAPHAEL:** Maria, ta đã sợ quyền lực của Hồng y Bibbiena. Ta cứ im lặng và nghĩ rằng rồi mọi chuyện sẽ tự qua.
 
-**MARIA:** Im lặng của chàng đã lấy mất thời gian của ta, biến ta thành cái cớ cho nỗi sợ của chàng. Ta không đến để “nhường” chàng cho Margherita. Tình yêu không phải món đồ chuyền tay. Ta tự chấm dứt hôn ước này — lựa chọn lẽ ra phải được hỏi từ đầu. Hãy nói sự thật với cậu của ta, Hồng y Bibbiena. Đừng dùng tên ta để trốn tránh nữa.
+**MARIA:** Im lặng của chàng đã lấy mất thời gian của ta, biến ta thành cái cớ cho nỗi sợ của chàng. Ta không đến để “nhường” chàng cho Margherita. Tình yêu không phải món đồ chuyền tay. Ta tự chấm dứt hôn ước này — lẽ ra ta phải được quyền lựa chọn từ đầu. Hãy nói sự thật với cậu của ta, Hồng y Bibbiena. Đừng dùng tên ta để trốn tránh nữa.
 
 *(Maria quay sang Margherita.)*
 
